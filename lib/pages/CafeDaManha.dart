@@ -15,21 +15,21 @@ class CafeDaManhaStates extends State<ProdutosPage> {
     Produto(
       urlImagem:
           'https://www.receiteria.com.br/wp-content/uploads/como-fazer-tapioca-00-1.jpg',
-      titulo: 'cafe',
+      titulo: 'TAPIOCA',
       valor: 1.99,
       quantidade: 1,
     ),
     Produto(
       urlImagem:
           'https://i1.wp.com/ncultura.pt/wp-content/uploads/2017/11/shutterstock-579999919-e1510831911710.jpg?fit=2000%2C1335&ssl=1',
-      titulo: 'bombom',
+      titulo: 'PÃO DE QUEIJO',
       valor: 0.50,
       quantidade: 1,
     ),
     Produto(
       urlImagem:
           'https://www.deline.com.br/assets/images/recipes/cuscuz-recheado-de-frango/mobile/thumb-video.jpg',
-      titulo: 'cavallo',
+      titulo: 'CUSCUZ RECHEADO',
       valor: 1.99,
       quantidade: 1,
     ),
