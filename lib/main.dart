@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:telas/pages/CafeDaManha.dart';
-import 'package:telas/pages/detailpage.dart'; // Corrigido
-import 'package:telas/pages/produtospage.dart';
-
+import 'package:myapp/domain/produto.dart';
+import 'package:myapp/pages/dateilpage.dart';
+import 'package:myapp/pages/produtospage.dart';
 
 void main() {
   runApp(

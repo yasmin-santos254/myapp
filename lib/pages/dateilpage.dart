@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:telas/pages/produtospage.dart'; // Certifique-se de que o caminho está correto para ProdutosPage
+import 'package:myapp/pages/produtospage.dart';
 
 class DateilPage extends StatefulWidget {
   const DateilPage({super.key});
@@ -85,7 +85,7 @@ class _DetailPageState extends State<DateilPage> {
                                   ClipRRect(
                                     borderRadius: BorderRadius.circular(10.0),
                                     child: Image.network(
-                                      'https://diaonline.ig.com.br/wp-content/uploads/2019/06/caf-da-manh-em-Braslia_capa-e1560882564741.jpg   ',
+                                      'https://ocp.news/wp-content/uploads/2020/08/4544b29b9423eac68b7a0ca6bdef129d.jpg',
                                       height: 85,
                                     ),
                                   ),

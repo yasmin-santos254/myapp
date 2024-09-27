@@ -1,6 +1,6 @@
 // lib/produtospage.dart
 import 'package:flutter/material.dart';
-import 'package:telas/domain/produto.dart';
+import 'package:myapp/domain/produto.dart';
 
 class ProdutosPage extends StatefulWidget {
   const ProdutosPage({super.key});

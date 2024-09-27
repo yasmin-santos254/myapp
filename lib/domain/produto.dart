@@ -1,4 +1,4 @@
-import 'package:telas/pages/produtospage.dart';
+import 'package:myapp/pages/produtospage.dart';
 
 
 // Classe Produto
