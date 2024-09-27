@@ -1,7 +1,7 @@
 // lib/produtospage.dart
 import 'package:flutter/material.dart';
 import 'package:myapp/domain/produto.dart';
- // Verifique se o caminho está correto
+// Verifique se o caminho está correto
 
 class ProdutosPage extends StatefulWidget {
   const ProdutosPage({super.key});
@@ -15,7 +15,7 @@ class CafeDaManhaStates extends State<ProdutosPage> {
     Produto(
       urlImagem:
           'https://www.receiteria.com.br/wp-content/uploads/como-fazer-tapioca-00-1.jpg',
-      titulo: 'beijinho',
+      titulo: 'cafe',
       valor: 1.99,
       quantidade: 1,
     ),
