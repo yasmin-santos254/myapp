@@ -52,6 +52,9 @@ class _ProdutosPageState extends State<ProdutosPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        
+        shadowColor: Colors.transparent,
+        surfaceTintColor: Colors.transparent,
         title: const Text('Café da Manhã',
             style: TextStyle(
               fontSize: 24,

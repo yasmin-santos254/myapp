@@ -1,6 +1,5 @@
 import 'package:myapp/pages/produtospage.dart';
 
-
 // Classe Produto
 class Produto {
   String urlImagem;
